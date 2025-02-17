@@ -8,8 +8,8 @@ from twitter import get_twitter_followers,get_twitter_handle_by_id
 import requests
 import re
 
-# Устанавливаем токен для бота
-API_TOKEN = '7820153635:AAE6gs0U-_3hsvJJQYcqjKNHsVikE83Zg18'
+
+API_TOKEN = ''
 
 # Создаем объект бота
 bot = telebot.TeleBot(API_TOKEN)
