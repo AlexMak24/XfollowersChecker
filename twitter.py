@@ -98,4 +98,4 @@ def get_twitter_handle_by_id(user_id, api_key, delay=2, retries=3, timeout=500):
     return None  # Возвращаем None, если все попытки неудачны
 
 # Пример использования:
-API_KEY = "f5c92b79-a20e-4804-a409-0dc6d712a93c"  # Замени на свой API-ключ
+API_KEY = ""  # Замени на свой API-ключ
